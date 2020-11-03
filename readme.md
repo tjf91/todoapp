@@ -2,6 +2,11 @@
 This is my react-boilerplate
  
 ## Setup
+
 npm install
-npm run buil
-dnpm start
+<br />
+npm run build-babel
+<br />
+npm run build
+<br />
+npm start
